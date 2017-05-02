@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barletta Theme\n"
+"POT-Creation-Date: 2017-05-02 21:30+0000\n"
+"PO-Revision-Date: 2017-05-02 21:35+0000\n"
+"Last-Translator: webmaster <xmcorporation@gmail.com>\n"
+"Language-Team: Portuguese (Portugal)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_html__;esc_html_e;esc_attr_x:1,"
+"2c;_nx:4c,1,2;_n:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pt-PT"
+
+#: ../archive.php:37
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:55
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:58
+msgid "Audios"
+msgstr ""
+
+#: ../functions.php:12
+msgid "Full Width"
+msgstr "Largura Total"
+
+#: ../functions.php:16
+msgid "Logo + Tagline"
+msgstr ""
+
+#: ../functions.php:18
+msgid "Title + Tagline"
+msgstr ""
+
+#: ../functions.php:204
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../functions.php:211
+msgid "Content Sidebar"
+msgstr "Barra Lateral de Conteúdo"
+
+#: ../functions.php:213
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../functions.php:220
+msgid "Footer Widget 1"
+msgstr ""
+
+#: ../functions.php:222 ../functions.php:231 ../functions.php:240
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../functions.php:229
+msgid "Footer Widget 2"
+msgstr ""
+
+#: ../functions.php:238
+msgid "Footer Widget 3"
+msgstr ""
+
+#: ../inc/customizer.php:44
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+
+#: ../inc/customizer.php:55
+msgid "Display Comments on Static Pages?"
+msgstr ""
+
+#: ../inc/customizer.php:68
+msgid "Slider Settings"
+msgstr "Definições do Slider"
+
+#: ../inc/customizer.php:70
+msgid "Change slider settings here."
+msgstr "Altere as definições do slider aqui."
+
+#: ../inc/extras.php:79
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: ../inc/template_tags.php:26
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template_tags.php:62
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-posts.php:12
+#: ../inc/widgets/widget-barletta-posts.php:13
+msgid "Barletta Recent Posts Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-posts.php:100
+msgid "Limit Posts Number"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:13
+#: ../inc/widgets/widget-barletta-social.php:14
+msgid "Barletta Social Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:199
+msgid ""
+"Enter full URL. If you don't want to display element, leave it's URL field "
+"empty."
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:203
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:209
+msgid "URL address of your Twitter profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:215
+msgid "URL address of your Google+ profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:221
+msgid "URL address of your Pinterest profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:227
+msgid "URL address of your Instagram profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:233
+msgid "URL address of your Tumblr profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:239
+msgid "URL address of your Dribbble profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:245
+msgid "URL address of your Last FM profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:251
+msgid "URL address of your Soundcloud profile"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:257
+msgid "URL address of your YouTube channel"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:263
+msgid "URL address of your Flickr profile page"
+msgstr ""
+
+#: ../inc/widgets/widget-barletta-social.php:269
+msgid "URL address of your RSS feed"
+msgstr ""
+
+#: ../404.php:12
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: ../archive.php:25
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: ../archive.php:28
+#, php-format
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: ../archive.php:31
+#, php-format
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#: ../archive.php:34
+#, php-format
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: ../archive.php:40
+msgid "Galleries"
+msgstr "Galerias"
+
+#: ../archive.php:43
+msgid "Images"
+msgstr "Imagens"
+
+#: ../archive.php:46
+msgid "Videos"
+msgstr "Vídeos"
+
+#: ../archive.php:49
+msgid "Quotes"
+msgstr "Citações"
+
+#: ../archive.php:52
+msgid "Links"
+msgstr "Ligações"
+
+#: ../archive.php:61
+msgid "Chats"
+msgstr "Conversas"
+
+#: ../archive.php:64 ../sidebar.php:35
+msgid "Archives"
+msgstr "Arquivos"
+
+#: ../comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comment"
+msgstr[0] "1 Comentário"
+msgstr[1] "%1$s Comentários"
+
+#: ../comments.php:32 ../comments.php:50
+msgid "Comment navigation"
+msgstr "Navegação de Comentários"
+
+#: ../comments.php:33 ../comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários Antigos"
+
+#: ../comments.php:34 ../comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Comentários Novos &rarr;"
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr "Comentários fechados."
+
+#: ../content-page.php:28 ../content-single.php:44
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: ../content-page.php:41 ../content-single.php:61 ../content.php:50
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../content-page.php:45 ../content-single.php:65 ../content.php:54
+msgid "Page"
+msgstr "Página"
+
+#: ../content-single.php:35 ../content.php:31
+msgid "Leave a comment"
+msgstr "Deixar um comentário"
+
+#: ../content-single.php:35 ../content.php:31
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: ../content-single.php:35 ../content.php:31
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: ../content-single.php:37 ../content.php:33
+msgid "Comments Off"
+msgstr "Comentários Desligados"
+
+#: ../content.php:60
+msgid "Continue Reading"
+msgstr "Continuar a Ler"
+
+#: ../functions.php:9
+msgid "Left Sidebar"
+msgstr "Barra Lateral Esquerda"
+
+#: ../functions.php:10
+msgid "Right Sidebar"
+msgstr "Barra Lateral Direita"
+
+#: ../functions.php:11
+msgid "No Sidebar"
+msgstr "Sem Barra Lateral"
+
+#: ../functions.php:15
+msgid "Logo Only"
+msgstr "Apenas Logótipo"
+
+#: ../functions.php:17
+msgid "Title Only"
+msgstr "Apenas Título"
+
+#: ../functions.php:59
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: ../functions.php:202
+msgid "Primary Sidebar"
+msgstr "Barra Lateral Primária"
+
+#: ../functions.php:268
+msgid ". All rights reserved."
+msgstr ". Todos os direitos reservados."
+
+#: ../functions.php:274
+#, php-format
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Tema por %1$s Apoiado por %2$s"
+
+#: ../inc/customizer.php:28
+msgid "Layout options"
+msgstr "Opções do Esquema"
+
+#: ../inc/customizer.php:29
+msgid "Choose website layout"
+msgstr "Escolha esquema do website"
+
+#: ../inc/customizer.php:41
+msgid "Website Layout Options"
+msgstr "Opções de Esquema do Website"
+
+#: ../inc/customizer.php:84
+msgid "Choose a category."
+msgstr "Escolha uma categoria."
+
+#: ../inc/customizer.php:98
+msgid "Show Slider?"
+msgstr "Mostrar Slider?"
+
+#: ../inc/customizer.php:115
+msgid "Logo"
+msgstr "Logótipo"
+
+#: ../inc/extras.php:80
+msgid "Password:"
+msgstr "Palavra-passe:"
+
+#: ../inc/extras.php:84
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../inc/template_tags.php:30
+msgid "Older posts"
+msgstr "Publicações Antigas"
+
+#: ../inc/template_tags.php:34
+msgid "Newer posts"
+msgstr "Publicações Recentes"
+
+#: ../inc/template_tags.php:66
+msgid "<div class=\"meta-nav\"><span>Published In</span>%title</div>"
+msgstr "<div class=\"meta-nav\"><span>Publicado Em</span>%title</div>"
+
+#: ../inc/template_tags.php:68
+msgid ""
+"<div class=\"meta-nav meta-nav-left\"><span>Previous Post</span>%title</div>"
+msgstr ""
+"<div class=\"meta-nav meta-nav-left\"><span>Publicação Anterior</span>"
+"%title</div>"
+
+#: ../inc/template_tags.php:69
+msgid ""
+"<div class=\"meta-nav meta-nav-right\"><span>Next Post</span>%title</div>"
+msgstr ""
+"<div class=\"meta-nav meta-nav-right\"><span>Publicação Seguinte</span>"
+"%title</div>"
+
+#: ../inc/widgets/widget-barletta-posts.php:18
+msgid "Recent Posts"
+msgstr "Publicações Recentes"
+
+#: ../inc/widgets/widget-barletta-posts.php:88
+msgid "recent Posts"
+msgstr "publicações Recentes"
+
+#: ../inc/widgets/widget-barletta-posts.php:95
+#: ../inc/widgets/widget-barletta-social.php:28
+#: ../inc/widgets/widget-barletta-social.php:195
+msgid "Title"
+msgstr "Título"
+
+#: ../inc/widgets/widget-barletta-social.php:35
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/widgets/widget-barletta-social.php:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/widgets/widget-barletta-social.php:45
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/widgets/widget-barletta-social.php:50
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/widgets/widget-barletta-social.php:55
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/widgets/widget-barletta-social.php:60
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/widgets/widget-barletta-social.php:65
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/widgets/widget-barletta-social.php:70
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/widgets/widget-barletta-social.php:75
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/widgets/widget-barletta-social.php:80
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/widgets/widget-barletta-social.php:85
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/widgets/widget-barletta-social.php:90
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: ../inc/widgets/widget-barletta-social.php:95
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../index.php:22
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: ../index.php:23
+msgid "Next page"
+msgstr "Próxima página"
+
+#: ../searchform.php:13
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: ../searchform.php:14
+msgctxt "placeholder"
+msgid "Search&hellp;"
+msgstr "Pesquisar&hellp;"
+
+#: ../searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: ../searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisar"
